@@ -1,0 +1,51 @@
+#Gamora{
+    width: 270px;
+    height: 180px;
+}
+#CaptainAmerica{
+    width: 270px;
+    height: 270px;
+}
+#Hulk{
+    width: 270px;
+    height: 270px;
+}
+#BlackPanther{
+    width: 270px;
+    height: 270px;
+}
+#Thor{
+    width: 270px;
+    height: 270px;
+}
+#CaptainMarvel{
+    width: 270px;
+    height: 270px;
+}
+#Thanos{
+    width: 270px;
+    height: 270px;
+}
+#IronMan{
+    width: 270px;
+    height: 270px;
+}
+#AvengersLogo{
+    width: 640px;
+    height: 340px;
+}
+#myCarousel{
+    background-color: darkcyan;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+
